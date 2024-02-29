@@ -1,0 +1,50 @@
+#general{
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 15px;
+    width: 700px;
+    height:700px;
+    background-color: aquamarine;
+}
+#caja1{
+    top:30%;
+    transform: translate(10%,-50%);
+    position: absolute;
+    margin-right:auto;
+    border-radius: 100%;
+    margin-left: 145px;
+    width: 150px;
+    height: 200px;
+    background-color: blueviolet;
+}
+#caja2{
+    top: 30%;
+    transform: translate(250%,-50%);
+    position: absolute;
+    margin-right: 145px;
+    margin-left: auto;
+    border-radius: 100%;
+    width: 150px;
+    height: 200px;
+    background-color: rgb(91, 174, 215);
+}
+#caja3{
+    top: 50%;
+    transform: translate(295%,-50%);
+    position: absolute;
+    border-radius: 100%;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 43, 110);
+}
+#caja4{
+    top: 100%;
+    transform: translate(90%,-75%);
+    position: absolute;
+    border-radius: 100%;    
+    margin: auto;
+    width: 250px;
+    height: 150px;
+    background-color: rgb(202, 226, 43);
+}
